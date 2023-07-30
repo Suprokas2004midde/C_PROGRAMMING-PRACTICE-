@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "PAIR-OF-NUMBERS.C": "cpp",
+        "SUM-TRIPLETS.C": "cpp",
+        "SECOND-MAX.C": "cpp",
+        "CHECK-SORTED-OR-NOT.C": "cpp",
+        "REVERSE-ARRAY-TO-ANOTHER-ARRAY.C": "cpp",
+        "REVERSER-WITHOUT-EXTRA-ARRAY.C": "cpp",
+        "PALINDROME-OR-NOT.C": "cpp",
+        "ROTATE-ARRAY-BY-K.C": "cpp",
+        "ADD-TWO-MATRICES.C": "cpp",
+        "SUM-ALL-ELEMENT.C": "cpp",
+        "MAX-ELEMENT.C": "cpp",
+        "ROW-HAVING-MAXIMUM-SUM-OF-ELEMENT.C": "cpp",
+        "FIND-DUPLICATE-ELEMENT.C": "cpp",
+        "FIND-UNIQUE-ELEMENT.C": "cpp",
+        "MAXIMUM-ROW-WITH-ONE.C": "cpp",
+        "TRANSPOSE.C": "cpp",
+        "TRANSPOSE2.C": "cpp",
+        "TRONSPOSE3.C": "cpp",
+        "ROTATE-ARRAY-90.C": "cpp",
+        "2D-ARRAY-MULTIPLICATION.C": "cpp",
+        "MULTIPLICATION -BY-USER.C": "cpp",
+        "MULTIPLICATION-BY-USER.C": "cpp",
+        "WAVE-PRINTING-VERTICALLY.C": "cpp"
+    }
+}

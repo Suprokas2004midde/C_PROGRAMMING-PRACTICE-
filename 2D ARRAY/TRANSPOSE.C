@@ -1,0 +1,16 @@
+// OUES:- Write a program to print the transpose of a matrix.....
+// only print a transposed matrix (not creat an array)...... 
+#include<stdio.h>
+int main()
+{
+    int arr[2][3]={1,2,3,4,5,6};
+    for(int j=0;j<3;j++) // here we converted the column into row....
+    {
+        for(int i=0;i<2;i++) // here we converted the row into column....
+        {
+            printf("%d ",arr[i][j]);  // here we print the element....
+        }
+        printf("\n");
+    }
+    return 0;
+}

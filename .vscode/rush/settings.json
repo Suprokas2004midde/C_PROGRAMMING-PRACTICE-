@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "NEON.C": "cpp",
+        "SUM-EVEN.C": "cpp",
+        "RIGHT-HALF-PYRAMID.C": "cpp",
+        "INVERTED-RIGHT-HALF.C": "cpp",
+        "HW-PALASH.C": "cpp",
+        "HW-PALASH2.C": "cpp"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "SPIRAL-MATRIX.C": "cpp",
+        "TRONSPOSE3.C": "cpp",
+        "ROTATE-ARRAY-90.C": "cpp",
+        "WAVE-PRINTING-VERTICALLY.C": "cpp",
+        "SHIBA.C": "cpp",
+        "MAX-ELEMENT.C": "cpp",
+        "ADD-TWO-MATRICES.C": "cpp"
+    }
+}
