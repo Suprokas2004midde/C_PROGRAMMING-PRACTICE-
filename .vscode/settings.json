@@ -22,6 +22,9 @@
         "2D-ARRAY-MULTIPLICATION.C": "cpp",
         "MULTIPLICATION -BY-USER.C": "cpp",
         "MULTIPLICATION-BY-USER.C": "cpp",
-        "WAVE-PRINTING-VERTICALLY.C": "cpp"
+        "WAVE-PRINTING-VERTICALLY.C": "cpp",
+        "BASICS.C": "cpp",
+        "INDIVIDUAL_ELEMENT.C": "cpp",
+        "REVERSE.C": "cpp"
     }
 }
